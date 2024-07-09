@@ -1,0 +1,76 @@
+.banner{
+  background-image: url(/images/Banner\ Image.png);
+  background-repeat: repeat;
+  background-position: center;
+  height: 600px;
+  width: 1200px;
+  margin: auto;
+}
+.banner2{
+  width: 802px;
+  height: 806px;
+  margin: auto;
+  padding-top: 75px;
+}
+.banner2-content{
+  text-align: center;
+}
+h1{
+  color: red;
+}
+.holyday{
+  color: red;
+}
+.invitation{
+  height: 650px;
+  width: 1320px;
+  background-image: url(/images/Vectorrr.png);
+
+  background-repeat: no-repeat;
+  margin: auto;
+}
+.invitation{
+  display: flex;
+}
+.Group{
+ height: 465px;
+ width: 320px;
+ margin: 68px 138px 67px 212px;
+}
+/* url(/images/Group\ 70.png), */
+h3, .doller{
+  color: white;
+  
+}
+h3{margin: 26px 55px 29px 126px;
+  font-weight: bold;
+  font-size: 35px;
+  padding-top: 80px;
+}
+.doller{
+  text-align: justify;
+  margin-left: 130px;
+}
+button{
+  margin-left: 130px;
+  margin-top: 20px;
+}
+.place{
+  width: 1320px;
+  height: 482px;
+  background-color:#ffcccc ;
+  margin: auto;
+  text-align: center;
+  
+}
+.place-content{
+  height: 275px;
+  width: 549px;
+  margin: 20px 386px 110px 385px;
+  padding-top: 200px;
+}
+.join{
+  background-color: red;
+  color: white;
+  border: none;
+}
